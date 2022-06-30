@@ -5,5 +5,5 @@ I'm Alyanna McGrath!
 - <i>Previously:</i> Product Management Summer Intern for Viewpoint a Trimble company.
 
 
-
+<a href="mailto:mcgratha@oxy.edu">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/alyanna-mcgrath/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
