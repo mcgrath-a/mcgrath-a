@@ -1,11 +1,13 @@
+
+# Hi,  👋🏾 👩🏾‍💻 I'm Aly
 ![banner_pink](https://user-images.githubusercontent.com/93737807/176778522-88351c60-90b3-41ac-a7ce-25af88ba829c.png)
 
-</p>
 
-<h1 align="center">Hi 👋🏾 👩🏾‍💻, I'm Aly</h1>
-<h3 align="center">A sophomore CS Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcgrath-a&label=Profile%20views&color=0e75b6&style=flat" alt="mcgrath-a" />
+ </p>
+ 
+ I am a Sophmore CS Student at Occidental College in Los Angeles, California. I have a passion for problem-solving, cracking tough algorithims and creating immersive and unique code. I have a few programming languages under my belt, and a longs way to go but I couldnt be more ready for the journey and challenges that i might encounter.One day I hope to be an inspiration to someone but for now I'll just be inspired by the great women that came before me!
 
 
 - <i>Currently:</i> BA Computer Science Student at Occidental College in Los Angeles California c/o 2025. 
