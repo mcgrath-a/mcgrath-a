@@ -1,5 +1,7 @@
 ### Hi there 👋
+I'm Alyanna McGrath! 
+- <i>Currently:</i> BA Computer Science Student at Occidental College in Los Angeles California. 
+- <i>Previously:</i> Product Management Summer Intern for Viewpoint a Trimble company.
 
-I'm Lakshmanan Meiyappan! 
-- <i>Currently:</i> MS CS Student at University of Illinois at Chicago. 
-- <i>Previously:</i> Full Stack Software Engineer at Zoho Corporation.
+
+
