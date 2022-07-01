@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcgrath-a&label=Profile%20views&color=0e75b6&style=flat" alt="mcgrath-a" />
  </p>
  
- I am a Sophmore CS Student at Occidental College in Los Angeles, California. I have a passion for problem-solving, cracking tough algorithims and creating immersive and unique code. I have a few programming languages under my belt, and a longs way to go but I couldnt be more ready for the journey and challenges that i might encounter. One day I hope to be an inspiration to someone but for now I'll just be inspired by the great women that came before me!
+ I am a Sophmore CS Student at Occidental College in Los Angeles, California. I have a passion for problem-solving, cracking tough algorithims and creating immersive and unique code. I have a few programming languages under my belt, and a longs way to go but I couldnt be more ready for the journey and challenges that i might encounter. My end goal, is not only to become a great software engineer but one day I hope to be an inspiration to young STEM students; but for now I'll just be inspired by the great women that came before me!
 
 ---
 **Fun Facts**
