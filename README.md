@@ -11,7 +11,7 @@
 
 ---
 **Fun Facts**
-- 💻 This summer(2022) I am working as a Product Management Summer Intern for Viewpoint a Trimble company.
+- 💻 This upcoming summer(2023) I will be working as a Software Engineer Intern for Microsoft.
 - 🏀 I am on the women's basketball team at my school.
 - 🏝 I am from sunny South Florida (almost 3,000 miles away from Oxy).
 - 🎨 When I was younger I was convinced I was going to be an artist.
