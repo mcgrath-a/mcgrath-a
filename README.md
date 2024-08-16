@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcgrath-a&label=Profile%20views&color=0e75b6&style=flat" alt="mcgrath-a" />
  </p>
  
- I am a Junior CS Student at Occidental College in Los Angeles, California. I have a passion for problem-solving, cracking tough algorithims and creating immersive and unique code. I have a few programming languages under my belt, and a longs way to go but I couldnt be more ready for the journey and challenges that i might encounter. My end goal, is not only to become a great software engineer but one day I hope to be an inspiration to young STEM students; but for now I'll just be inspired by the great women that came before me!
+ I am a Senior CS Student at Occidental College in Los Angeles, California. I have a passion for problem-solving, cracking tough algorithims and creating immersive and unique code. I have a few programming languages under my belt, and a longs way to go but I couldnt be more ready for the journey and challenges that i might encounter. My end goal, is not only to become a great software engineer but one day I hope to be an inspiration to young STEM students; but for now I'll just be inspired by the great women that came before me!
 
 ---
 **Fun Facts**
-- 💻 Last summer(2023), I worked as a Software Engineer Intern for Microsoft.
+- 💻 Last summer(2024), I worked as an Associate Product Manager for Google.
 - 🏀 I am on the women's basketball team at my school.
 - 🏝 I am from sunny South Florida (almost 3,000 miles away from Oxy).
 - 🎨 When I was younger I was convinced I was going to be an artist.
